@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.application.server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.server.port'"
+  },
+  {
+    "name": "spring.eureka.client",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.client'"
+  },
+  {
+    "name": "spring.eureka.fetchRegistry",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.fetchRegistry'"
+  },
+  {
+    "name": "spring.eureka.registerWithEureka",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.registerWithEureka'"
+  },
+  {
+    "name": "spring.eureka.serviceUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.serviceUrl'"
+  },
+  {
+    "name": "spring.instance",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.instance'"
+  },
+  {
+    "name": "spring.application.spring.application.name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.spring.application.name'"
+  }
+]}
